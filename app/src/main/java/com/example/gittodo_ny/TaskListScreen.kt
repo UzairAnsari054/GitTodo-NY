@@ -4,6 +4,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
 @Composable
-fun a(modifier: Modifier = Modifier) {
+fun b(modifier: Modifier = Modifier) {
     
 }
